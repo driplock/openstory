@@ -1,0 +1,24 @@
+Page:1
+Kitiara: Hello world!!
+Skie: Hi
+Narrator: The day begins!
+
+Options:{1: Start the day, 2: Rest for the day}, {1:2,2:1}
+
+Page:2
+Narrator: The day begins with the sun shining, while walking across the forest
+suddenly a few goblin appears behind your back
+Kitiara: Awts!
+
+Options:{1: Run as fast you can!, 2: Draw your dagger!, 3: Play dead}, {1:3,2:4,1:1}
+
+Page:3
+Narrator: You are surrounded by goblins! 3 of them in front of you and one at the back
+What will you do?
+
+Options:{1: Attack goblin from behind, 2:Play dead!}, {1:4, 2:1}
+
+Page:4
+Narrator: .........
+
+Options:{1: None}, {1:5}
